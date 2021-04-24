@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "ffi-napi": "^4.0.3",
-    "ref-array-di": "^1.2.2"
+    "ref-array-di": "^1.2.2",
+    "ref-wchar-napi": "^1.0.3"
   }
 }
